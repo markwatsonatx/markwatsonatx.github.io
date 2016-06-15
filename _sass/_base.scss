@@ -199,8 +199,20 @@ pre {
         height: 16px;
         vertical-align: middle;
 
-        path {
-            fill: $grey-color;
-        }
+        //path {
+        //    fill: $grey-color;
+        //}
     }
+}
+
+.about-profile {
+    width: 36px;
+    height: 36px;
+    float: left;
+    padding-right: 10px;
+}
+
+.about-profile2 {
+    width: 20px;
+    height: 20px;
 }

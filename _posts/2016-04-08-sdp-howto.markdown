@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "How to Build a Simple Data Pipe Connector"
+date:   2016-04-08 08:00:00 -0500
+categories: [tutorial, data, nosql, cloudant, bluemix, sdp]
+caption: In this tutorial we will build a Simple Data Pipe connector for Stack Overflow.
+super: official
+---
+
+![Super Official](/img/profile1.jpg){: .post-content-profile } In this tutorial
+we will build a Simple Data Pipe connector for Stack Overflow.
+The tutorial will walk you step by step through the process of building,
+registering, deploying, and running your connector inside the Simple Data Pipe.
+You can also follow this tutorial to build a connector for other cloud data sources.
+
+[Read more...](https://github.com/ibm-cds-labs/simple-data-pipe-connector-oauth-template/wiki/How-to-Build-a-Simple-Data-Pipe-Connector)

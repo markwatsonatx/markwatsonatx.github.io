@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![Me, a long time ago](/img/profile0.jpg){: .about-profile } This is me a long time ago on an RV Trip in Kent, WA.
+I travelled around the US for 3 months with my wife, and I didn't shave once.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+![Me, now](/img/profile1.jpg){: .about-profile } This is me now in Ausin, TX. I am a Developer Advocate for IBM, Cloud Data Services.
+I'm a super adult now. I have kids and everything.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm going to put stuff here that may be useful. Please follow this key:
+
+![Me, now](/img/profile1.jpg){: .about-profile2 } = stuff that comes from [my super official IBM blog](https://developer.ibm.com/clouddataservices/author/markwats/). 
+
+![Me, a long time ago](/img/profile0.jpg){: .about-profile2 } = stuff that comes from my super unofficial brain and posted here.
