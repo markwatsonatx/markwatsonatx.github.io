@@ -9,4 +9,10 @@ super: unofficial
 
 ![Super Unofficial](/img/profile0.jpg){: .post-content-profile } This video provides a basic overview of the RethinkDB Administration Console and a very brief intro to connecting to RethinkDB via Node.js.
 
+The source code and Docker Compose config for this tutorial can be found at:
+
+[https://github.com/markwatsonatx/tutorial-rethinkdb-nodejs-intro](https://github.com/markwatsonatx/tutorial-rethinkdb-nodejs-intro)
+
+Clone the repository, run "docker-compose up -d" and you'll be up and running!
+
 <iframe width="640" height="400" src="https://www.youtube.com/embed/G8N0Ci6bD7o" frameborder="0" allowfullscreen></iframe>
