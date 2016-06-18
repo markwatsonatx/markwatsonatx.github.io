@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Intro to RethinkDB using Docker Compose and Node.js"
+date:   2016-06-18 09:00:00 -0500
+categories: [tutorial, mobile, ios, swift, cloudant, sync, geo, location]
+caption: This video provides a basic overview of the RethinkDB Administration Console and a very brief intro to connecting to RethinkDB via Node.js.
+super: unofficial
+---
+
+![Super Unofficial](/img/profile0.jpg){: .post-content-profile } This video provides a basic overview of the RethinkDB Administration Console and a very brief intro to connecting to RethinkDB via Node.js.
+
+<iframe width="640" height="400" src="https://www.youtube.com/embed/G8N0Ci6bD7o" frameborder="0" allowfullscreen></iframe>

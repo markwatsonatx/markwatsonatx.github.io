@@ -17,4 +17,4 @@ to run apps and services such as Node.js, RethinkDB, and Apache Spark in isolate
 
 This video shows you how it works:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/0yAbOufNvWo" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="https://www.youtube.com/embed/0yAbOufNvWo" frameborder="0" allowfullscreen></iframe>
