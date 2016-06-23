@@ -3,7 +3,7 @@ layout: post
 title:  "RethinkDB CRUD example using Node.js and Docker Compose"
 date:   2016-06-22 09:00:00 -0500
 categories: [tutorial, rethinkdb, nodejs]
-caption: This video provides a basic overview of the RethinkDB Administration Console and a very brief intro to connecting to RethinkDB via Node.js.
+caption: This video provides shows you how to perform simple CRUD operations in RethinkDB via Node.js.
 super: unofficial
 ---
 
