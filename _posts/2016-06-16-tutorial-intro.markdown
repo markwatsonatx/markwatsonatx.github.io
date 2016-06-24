@@ -15,4 +15,4 @@ The source code and Docker Compose config for this tutorial can be found at:
 
 Clone the repository, run "docker-compose up -d" and you'll be up and running!
 
-<iframe width="640" height="400" src="https://www.youtube.com/embed/0yAbOufNvWo" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="400" src="https://www.youtube.com/embed/wHLhPTYDUYE" frameborder="0" allowfullscreen></iframe>
