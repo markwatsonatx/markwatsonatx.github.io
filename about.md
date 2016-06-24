@@ -8,7 +8,7 @@ permalink: /about/
 I travelled around the US for 3 months with my wife, and I forgot to shave :)
 
 ![Me, now](/img/profile1.jpg){: .about-profile } This is me now in Ausin, TX. I am a Developer Advocate for IBM, Cloud Data Services.
-I'm all grown up and super professionl. I have kids and everything.
+I'm all grown up and super professional. I have kids and everything.
 
 I'm going to put stuff here that may be useful. Please follow this key:
 
