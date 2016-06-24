@@ -19,7 +19,7 @@ I'm going to put stuff here that may be useful. Please follow this key:
 ## Tutorials
 
 I will be posting tutorials here as often as I can. My goal is to tackle small topics in self-contained tutorials
-that you can easily download, run, and expirment with. The only requirements to run these tutorials will be:
+that you can easily download, run, and play with. Here are the only requirements to run these tutorials:
 
 1. IDE - Any IDE you prefer
 2. [Docker](https://www.docker.com/) ([for Mac](https://www.docker.com/products/docker#/mac), [for Windows](https://www.docker.com/products/docker#/windows), [for Linux](https://www.docker.com/products/docker#/linux), [Toolbox](https://www.docker.com/products/docker-toolbox), etc.)
