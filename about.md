@@ -24,14 +24,12 @@ that you can easily download, run, and play with. Here are the only requirements
 1. IDE - Any IDE you prefer
 2. [Docker](https://www.docker.com/) ([for Mac](https://www.docker.com/products/docker#/mac), [for Windows](https://www.docker.com/products/docker#/windows), [for Linux](https://www.docker.com/products/docker#/linux), [Toolbox](https://www.docker.com/products/docker-toolbox), etc.)
 
-I plan to use Docker Compose for every tutorial. This will allow you to install and experiment with each tutorial
-without having to download and install anything on your machine (except container images of course). 
+I plan to use [Docker Compose](https://docs.docker.com/compose/) for every tutorial. This will allow you to install and experiment with each tutorial
+without having to download and install anything on your machine (except Docker images of course). 
 For example, if I create a tutorial on RethinkDB using Node.js you will not have to download and install RethinkDB or Node.js.
 You can simply run "docker-compose up" and the containers running RethinkDB and Node.js will automatically be downloaded and started. 
 The source code of the tutorial will be automatically mapped to the containers, so you can experiment with the source code and 
 immediately see your changes. 
-
-For more information on Docker Compose [go here](https://docs.docker.com/compose/).
 
 Some other conventions I will try to follow:
 
