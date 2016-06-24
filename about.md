@@ -28,8 +28,8 @@ I plan to use [Docker Compose](https://docs.docker.com/compose/) for every tutor
 without having to download and install anything on your machine (except Docker images of course). 
 For example, if I create a tutorial on RethinkDB using Node.js you will not have to download and install RethinkDB or Node.js.
 You can simply run "docker-compose up" and the containers running RethinkDB and Node.js will automatically be downloaded and started. 
-The source code of the tutorial will be automatically mapped to the containers, so you can experiment with the source code and 
-immediately see your changes. 
+The source code of the tutorial will be automatically mapped to the containers, so you can make changes to the source code and 
+immediately see the effect. 
 
 Some other conventions I will try to follow:
 
