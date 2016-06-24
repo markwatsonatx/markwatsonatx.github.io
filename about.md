@@ -43,9 +43,10 @@ When accessing services between containers the containers should be configured t
 but it's free and available on most platforms. It has a built-in Terminal and you can easily launch directories from the command line
 ("code ./tutorial-dir") which is helpful when recording video tutorials. You can use any IDE you prefer.
 
-This video gives you an overview of how the tutorials will work:
+This video gives you an overview of how the tutorials work:
 
 <iframe width="640" height="400" src="https://www.youtube.com/embed/wHLhPTYDUYE" frameborder="0" allowfullscreen></iframe>
+
 
 That's it for now. Please contact me using any of the methods below. Thanks!
 
