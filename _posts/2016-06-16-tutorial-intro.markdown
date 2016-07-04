@@ -2,7 +2,7 @@
 layout: post
 title:  "Tutorials using Docker Compose"
 date:   2016-06-16 01:00:00 -0500
-categories: [tutorial, mobile, ios, swift, cloudant, sync, geo, location]
+categories: [tutorial, docker, compose]
 caption: This video shows you how to use Docker Compose to make it super easy to download, run, and experiment with tutorials. 
 super: unofficial
 ---

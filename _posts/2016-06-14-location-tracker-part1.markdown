@@ -2,7 +2,7 @@
 layout: post
 title:  "Location Tracker – Part 1"
 date:   2016-06-14 08:00:00 -0500
-categories: [tutorial, mobile, ios, swift, cloudant, sync, geo, location]
+categories: [tutorial, ios, swift, cloudant]
 caption: Offline apps with mapping, Swift and cloud sync
 super: official
 ---

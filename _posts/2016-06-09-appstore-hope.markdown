@@ -2,7 +2,7 @@
 layout: post
 title:  "App Store gives hope to Indie Developers Again?"
 date:   2016-06-09 08:00:00 -0500
-categories: [opinion, mobile, ios, appstore]
+categories: [opinion, ios, appstore]
 caption: Reaction to the Verge interview with Phil Schiller about upcoming changes to Apple’s App Store.
 super: official
 ---

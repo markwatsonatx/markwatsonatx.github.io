@@ -2,7 +2,7 @@
 layout: post
 title:  "Intro. to Apache Spark and Python Notebooks"
 date:   2016-07-03 09:00:00 -0500
-categories: [tutorial, apache, spark, notebook, python]
+categories: [tutorial, apache, spark]
 caption: This video walks you through a Python Notebook that uses Apache Spark to analyze the Back to the Future transcript.
 super: unofficial
 ---

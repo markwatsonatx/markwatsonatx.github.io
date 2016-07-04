@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Build a Simple Data Pipe Connector"
 date:   2016-04-08 08:00:00 -0500
-categories: [tutorial, data, nosql, cloudant, bluemix, sdp]
+categories: [tutorial, cloudant, data]
 caption: In this tutorial we will build a Simple Data Pipe connector for Stack Overflow.
 super: official
 ---
