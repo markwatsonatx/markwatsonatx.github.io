@@ -73,7 +73,7 @@ So, why go serverless?
 5. I only have to pay for API calls (50K free per month) and the time my OpenWhisk actions are executing.
 
 Now, obviously I didn't just create the next Pokemon Go, but I think I built a pretty neat app 
-in one night (a very late night) that doesn't require a download or even a mobile web browser
+in one night (a very late night) that doesn't require a download or even a mobile web browser.
 You can run this thing on a flip phone if you want. Along the way I got to learn some cool new things,
 and feed this crazy brain of mine.
 
