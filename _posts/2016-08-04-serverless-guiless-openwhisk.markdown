@@ -51,7 +51,7 @@ Here is how it works:
 3. API Connect transforms the HTTP request parameters into a JSON document that [my custom OpenWhisk action](https://github.com/markwatsonatx/jess/blob/master/openwhisk/action.js) can process.
 4. API Connect sends the JSON document to my OpenWhisk action's REST endpoint.
 5. My OpenWhisk action processes the request - storing user budgets and messages in [IBM Cloudant](https://cloudant.com/).
-6. OpenWhisk returns a messaage which includes the user's current balance to API Connect.
+6. OpenWhisk returns a message which includes the user's current balance to API Connect.
 7. API Connect transforms the JSON response into a [TwiML](https://www.twilio.com/docs/api/twiml) message. 
 8. API Connect returns the TwiML message to Twilio.
 9. Twilio sends the message to the user.
