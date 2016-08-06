@@ -79,3 +79,5 @@ and feed this crazy brain of mine.
 
 You can find the source code for the OpenWhisk action (all 125 lines of it!) and the API Connect YAML file
 at [https://github.com/markwatsonatx/jess/](https://github.com/markwatsonatx/jess/).
+
+...or you can try it out yourself at 949-TEL-JESS.
