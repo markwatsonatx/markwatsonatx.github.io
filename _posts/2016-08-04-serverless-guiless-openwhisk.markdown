@@ -3,7 +3,7 @@ layout: post
 title:  "Jess: A Serverless and GUI-less App"
 date:   2016-08-04 09:00:00 -0500
 categories: [tutorial, openwhisk, serverless]
-caption: Jess is a Serveless and GUI-less app developed on top of IBM API Connect and OpenWhisk. It's a super simple budget tracking app that uses text messages and Twilio.
+caption: Jess is a Serverless and GUI-less app that tracks your budget developed on top of IBM API Connect and OpenWhisk.
 super: unofficial
 ---
 
