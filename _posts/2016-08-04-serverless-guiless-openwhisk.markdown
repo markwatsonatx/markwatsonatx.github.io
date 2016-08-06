@@ -3,7 +3,7 @@ layout: post
 title:  "Jess: A Serverless and GUI-less App"
 date:   2016-08-04 09:00:00 -0500
 categories: [tutorial, openwhisk, serverless]
-caption: Jess is a Serverless and GUI-less app that tracks your budget. "A Jess is a person who is generous, talented and kindly. The name itself means "wealthy", and this is true, as a jess will always be rich in spirit and personality. Also used by some kids to mean 'awesome'." -Urban Dictionary
+caption: Jess is a Serverless and GUI-less app that tracks your budget. "A Jess is a person who is generous, talented and kindly. The name itself means 'wealthy', and this is true, as a jess will always be rich in spirit and personality. Also used by some kids to mean 'awesome'." -Urban Dictionary
 super: unofficial
 ---
 
