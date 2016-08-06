@@ -27,7 +27,7 @@ I get to learn about tons of new stuff, contribute to open source software, and 
 
 OK, back to the app...
 
-I didn't really want to spend a lot time building another app. I've been there before - late nights - every night.
+I didn't really want to spend a lot of time building another app. I've been there before - late nights - every night.
 So, I got to thinking...you know, like Winnie the Pooh style - think, think, think...
 
 And I came up with Jess:
