@@ -5,6 +5,8 @@ date:   2016-06-30 09:00:00 -0500
 categories: [webinar, ibm, cloudant]
 caption: See what's new and what's coming to IBM Cloudant.
 super: official
+tags:
+- cloudant
 ---
 
 ![Super Official](/img/profile1.jpg){: .post-content-profile } Check out this video to see all the great features that

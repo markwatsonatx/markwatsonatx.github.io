@@ -5,6 +5,9 @@ date:   2016-06-22 09:00:00 -0500
 categories: [tutorial, rethinkdb]
 caption: This video provides shows you how to perform simple CRUD operations in RethinkDB via Node.js.
 super: unofficial
+tags:
+- rethinkdb
+- nodejs
 ---
 
 ![Super Unofficial](/img/profile0.jpg){: .post-content-profile } This video provides shows you how to perform simple CRUD operations in RethinkDB via Node.js. 

@@ -5,6 +5,10 @@ date:   2016-04-25 08:00:00 -0500
 categories: [tutorial, cloudant, data, stackoverflow]
 caption: In this post, I’ll show you how to extend the Stack Overflow connector for our Simple Data Pipe app to capture and analyze threads related to specific technologies.
 super: official
+tags:
+- cloudant
+- data
+- stackoverflow
 ---
 
 ![Super Official](/img/profile1.jpg){: .post-content-profile } As developer advocates,

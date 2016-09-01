@@ -5,6 +5,9 @@ date:   2016-06-16 01:00:00 -0500
 categories: [tutorial, docker, compose]
 caption: This video shows you how to use Docker Compose to make it super easy to download, run, and experiment with tutorials. 
 super: unofficial
+tags:
+- docker
+- docker compose
 ---
 
 ![Super Unofficial](/img/profile0.jpg){: .post-content-profile } This video shows you how to use Docker Compose to make it super easy to download, run, and experiment with tutorials. 

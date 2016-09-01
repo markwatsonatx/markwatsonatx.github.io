@@ -5,6 +5,9 @@ date:   2016-06-24 09:00:00 -0500
 categories: [tutorial, rethinkdb]
 caption: This video shows you how to use RethinkDB Changefeeds to push events from RethinkDB to WebSocket connected clients via Node.js.
 super: unofficial
+tags:
+- rethinkdb
+- nodejs
 ---
 
 ![Super Unofficial](/img/profile0.jpg){: .post-content-profile } This video shows you how to use RethinkDB Changefeeds to push events from RethinkDB to WebSocket connected clients via Node.js. 

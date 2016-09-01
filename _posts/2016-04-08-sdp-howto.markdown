@@ -5,6 +5,9 @@ date:   2016-04-08 08:00:00 -0500
 categories: [tutorial, cloudant, data]
 caption: In this tutorial we will build a Simple Data Pipe connector for Stack Overflow.
 super: official
+tags:
+- cloudant
+- data
 ---
 
 ![Super Official](/img/profile1.jpg){: .post-content-profile } In this tutorial

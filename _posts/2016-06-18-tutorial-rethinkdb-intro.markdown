@@ -5,6 +5,8 @@ date:   2016-06-18 09:00:00 -0500
 categories: [tutorial, rethinkdb]
 caption: This video provides a basic overview of the RethinkDB Administration Console and a brief intro to connecting to RethinkDB via Node.js.
 super: unofficial
+tags:
+- rethinkdb
 ---
 
 ![Super Unofficial](/img/profile0.jpg){: .post-content-profile } This video provides a basic overview of the RethinkDB Administration Console and a brief intro to connecting to RethinkDB via Node.js.
