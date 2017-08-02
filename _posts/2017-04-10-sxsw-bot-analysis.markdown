@@ -4,7 +4,7 @@ title:  "The Most Popular Search Term at SXSW, According to Our Chatbot"
 date:   2017-04-10 08:00:00 -0500
 categories: [jupyter, dsx, pixiedust, watson, bot]
 caption: Analyzing conversation data using Spark, Jupyter, and PixieDust.
-super: unofficial
+super: official
 tags:
 - jupyter
 - dsx
