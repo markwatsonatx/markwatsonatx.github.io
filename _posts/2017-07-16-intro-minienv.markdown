@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing minienv 0.1 for Kubernetes"
-date:   2017-04-18 08:00:00 -0500
+date:   2017-07-16 08:00:00 -0500
 categories: [kubernetes, docker]
 caption: Run mini Docker Compose environments in Kubernetes for on-demand, web-based, no-install sample applications.
 super: unofficial
