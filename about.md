@@ -7,12 +7,12 @@ permalink: /about/
 ![Me, a long time ago](/img/profile0.jpg){: .about-profile } This is me a long time ago on an RV Trip in Kent, WA.
 I travelled around the US for 3 months with my wife, and I forgot to shave :)
 
-![Me, now](/img/profile1.jpg){: .about-profile } This is me now in Ausin, TX. I am a Developer Advocate for IBM, Cloud Data Services.
+![Me, now](/img/profile1.jpg){: .about-profile } This is me now in Ausin, TX. I am a Developer Advocate for IBM, Watson Data Platform.
 I'm all grown up and super professional.
 
 I'm going to put stuff here that may be useful. Please follow this key:
 
-![Me, now](/img/profile1.jpg){: .about-profile2 } = stuff that comes from [my super official IBM blog](https://developer.ibm.com/clouddataservices/author/markwats/). 
+![Me, now](/img/profile1.jpg){: .about-profile2 } = stuff that comes from [my super official IBM blog](https://developer.ibm.com/clouddataservices/author/markwats/).
 
 ![Me, a long time ago](/img/profile0.jpg){: .about-profile2 } = stuff that comes from my super unofficial brain and posted here.
 
@@ -25,11 +25,11 @@ that you can easily download, run, and play with. Here are the only requirements
 2. [Docker](https://www.docker.com/) ([for Mac](https://www.docker.com/products/docker#/mac), [for Windows](https://www.docker.com/products/docker#/windows), [for Linux](https://www.docker.com/products/docker#/linux), [Toolbox](https://www.docker.com/products/docker-toolbox), etc.)
 
 I plan to use [Docker Compose](https://docs.docker.com/compose/) for every tutorial. This will allow you to install and experiment with each tutorial
-without having to download and install anything on your machine (except Docker images of course). 
+without having to download and install anything on your machine (except Docker images of course).
 For example, if I create a tutorial on RethinkDB using Node.js you will not have to download and install RethinkDB or Node.js.
-You can simply run "docker-compose up" and the containers running RethinkDB and Node.js will automatically be downloaded and started. 
-The source code of the tutorial will be automatically mapped to the containers, so you can make changes to the source code and 
-immediately see the effect. 
+You can simply run "docker-compose up" and the containers running RethinkDB and Node.js will automatically be downloaded and started.
+The source code of the tutorial will be automatically mapped to the containers, so you can make changes to the source code and
+immediately see the effect.
 
 Some other conventions I will try to follow:
 
@@ -51,5 +51,3 @@ This video gives you an overview of how the tutorials work:
 That's it for now. Please contact me using any of the methods below. Thanks!
 
 -Mark
-
-
